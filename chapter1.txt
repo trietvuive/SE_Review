@@ -1,0 +1,20 @@
+Chapter 1:
+
+Software project fails on:
+_increasing system complexity
+_failure to use software engineering
+
+Attributes of a good software:
+_Deliver required functionality and performance
+_Maintainable, dependable, and usable
+
+Fundamental software engineering activities:
+_Specification, development, validation, and evolution
+
+Issues that affect software:
+_Heterogenity: distributed system, different OS,...
+_Business and social change
+_Security and trust
+_Scale
+
+
