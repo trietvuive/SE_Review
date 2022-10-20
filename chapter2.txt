@@ -1,0 +1,29 @@
+Plan-driven: Plan everything beforehand, Agile: incremental planning
+Waterfall: plan-driven, incremental: mixed
+integration & configuration: assembled from existing components, mixed
+
+Waterfall: requirements, design, implementation, testing, deployment
+Drawback: no feedback from users
+Used in large system engineering projects
+
+Incremental: specification, development, validation, repeat
+Benefit: accomodate changes, rapid deployment
+Problems: Opaque process, tech debt
+
+Requirements engineering process: Elicitation, specification, validation
+Reducing cost of rework: 
+change anticipation (system prototyping), change tolerance (incremental)
+
+Prototype: Initial version for demonstration concepts
+Focus on functional, on area not well understood, ignore error checking
+Throw-away prototypes, undocumented
+
+Process improvement: measurement, analysis, change
+
+SEI Capability Maturity Model (CMM): 5 levels
+Level 1: ad hoc, no process
+Level 2: repeatable, documented
+Level 3: defined, managed
+Level 4: quantitatively managed
+Level 5: optimized
+
