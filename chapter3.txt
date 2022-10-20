@@ -1,0 +1,49 @@
+Agile: 
+interleaved specification, design, and implementation
+series of incremental versions
+frequent delivery
+minimal documentation
+extensive tool/testing
+
+Agile Manifesto:
+Individuals interactions > processes / tools
+Working software > comprehensive documentation
+Customer collaboration > contract negotiation
+Responding to change > following a plan
+
+Agile Principles:
+Customer involvement
+Incremental delivery
+People not process
+Embrace change
+Maintain simplicity
+
+XP: Extreme agile
+New version several times a day, delivery every two weeks
+test runs for every builds
+
+test-first development: write test before code
+pair programming: two programmers work together on one computer
+collective ownership: everyone is responsible for the code
+onsite customer: customer is on site
+user stories: short description of a feature from the customer's perspective
+refactoring: restructuring code without changing its behavior
+
+Scrum: agile framework
+sprint: a fixed period of time during which a set of work is to be completed
+Scrum phase: sprint planning, daily scrum, sprint review, sprint retrospective
+potentially shippable product increment: a set of features that can be released at any time
+velocity: the amount of work a team can do in a sprint
+sprint cycle = 2-4 weeks, dev team < 7 ppl
+team isolation from customer during development, communicate through Scrum Master
+
+Scaling out: use agile for larger team/system
+Scaling up: introduce agile to large, established organization
+
+Problems with agile:
+_lack of documentation
+_inappropriate for maintenance
+_incompatible with legal contract
+_designed for small co-located teams
+_hard to maintain continuity of team
+_keeping customer involved
