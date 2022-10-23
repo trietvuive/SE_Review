@@ -1,0 +1,30 @@
+system modeling: abstract model of system, using UML (Unified Modeling Language)
+System perspetive: external, interaction with environment, structural (organization & data structure), behavioral - dynamic behavior and system responses
+Use of graphical models - facilitate discussion (incomplete model is OK), documenting existing system, detailed system description (have to be complete and correct)
+context models: operational context outside system boundaries
+interaction model: modeling user interaction, identify user requirements
+use case in UML: actor, discrete task, description, data, stimulus, response, comments
+sequence diagram: interaction between actors and objects, sequence of interactions
+class diagram: object-oriented system model (similar to database)
+generalization: lower-level inherit from higher-level classes
+object class aggregation: object class is composed of other object classes
+
+behavioral model: dynamic behavior of system
+data-driven modeling: controlled by data input, little external event processing
+event-driven modeling: real time system, minimal data processing
+state machine models: system state as node, event as arc between nodes
+
+model-drive engineering: model is basis for system design, implementation, and testing
+pros: higher level of abstraction, code generation
+cons: model not necessarily right, code generation savings outweighted by cost of developing translators for new platform
+
+model-driven architecture: model-focused, use UML to describe system
+computation independent: domain abstractions, ~ domain models
+platform independent: operation without reference to implementation, shows static system structure & response to external and internal events
+platform specific: transform PIM to separate PSM for each application platform
+
+for most complex systems, requirement, security, dependability, integration > implementation
+useful abstractions for discussion != useful abstractions for implementation
+MDA is not used
+
+

@@ -1,0 +1,39 @@
+requirement function: basis for contract bid or contract itself
+user requirement: written for customers, natural language
+system requirement: written for programmers, formal language
+system stakeholders: people who have interest in the system
+
+agile: requirement changes quickly, always out of date
+functional requirements: what the system should do
+non-functional requirements: how the system should do it
+
+requirements should be:
+complete: all requirements are included
+consistent: no contradictions
+
+product requirements: what the system should do
+organizational requirements: consequence of organisation policy
+external requirements: how the system should interact with the outside world
+metrics: speed, size, ease of use, reliability, robustness, portability
+
+requirement elicitation: discovery, classification, prioritization, specification
+problems: stakeholders don't know what they want, express requirements poorly, conflicting requirements, politics, change
+
+closed interview: pre-determined questions, open interview: free form
+problems: bad language, no understand of domain language
+
+Ethnography: observe users in their natural environment
+Focused ethnography: observe users in their natural environment, focus on specific tasks
+User story: short description of a user requirement
+
+problem with natural language: lack of clarity, confusion, combined requirements
+structured specification: use formal language, can be too rigid
+form-based specification: use form to fill in requirements
+tabular specification: use table to fill in requirements
+use cases: scenario, actor in interaction, all possible interactions
+software requirements document: WHAT the system should do, not HOW
+
+requirements checking: 
+validity, consistency, completeness, realism w/ budget & tech, verifiability
+validation technique: reviews, prototyping, generating test cases
+requirements change due to changing business environment, system customers != end-users, diverse user community
